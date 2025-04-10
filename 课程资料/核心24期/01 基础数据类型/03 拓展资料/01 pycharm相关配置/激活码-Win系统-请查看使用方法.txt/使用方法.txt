@@ -1,0 +1,9 @@
+安装pycharm后退出程序, 一定要退, 不退出破解不了
+
+双击进入 "激活码-Win系统" 文件夹
+
+双击  "PyCharm激活.vbs"  文件, 即可破解
+
+如果出现弹窗显示 "Successlll Now you can enjoy PyCharm to 2099"  表示破解成功
+
+出现其他内容的显示, 请私聊~

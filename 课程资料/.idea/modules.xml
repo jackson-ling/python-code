@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../23传智杯初赛第一场/.idea/23传智杯初赛第一场.iml" filepath="$PROJECT_DIR$/../23传智杯初赛第一场/.idea/23传智杯初赛第一场.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../23传智杯初赛第二场/.idea/23传智杯初赛第二场.iml" filepath="$PROJECT_DIR$/../23传智杯初赛第二场/.idea/23传智杯初赛第二场.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../practise/.idea/practise.iml" filepath="$PROJECT_DIR$/../practise/.idea/practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python洛谷/.idea/python洛谷.iml" filepath="$PROJECT_DIR$/../python洛谷/.idea/python洛谷.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/课程资料.iml" filepath="$PROJECT_DIR$/.idea/课程资料.iml" />
+    </modules>
+  </component>
+</project>

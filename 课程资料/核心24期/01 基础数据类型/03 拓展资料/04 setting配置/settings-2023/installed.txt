@@ -1,0 +1,4 @@
+com.intellij.zh
+com.tabnine.TabNine
+net.seesharpsoft.intellij.plugins.csv
+cn.yiiguxing.plugin.translate

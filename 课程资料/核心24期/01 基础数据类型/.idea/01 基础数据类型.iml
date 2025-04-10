@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="02 控制流程" />
+    <orderEntry type="module" module-name="03 数据容器(list,tuple)" />
+    <orderEntry type="module" module-name="04 数据容器(dict,set)" />
+    <orderEntry type="module" module-name="pythonProject" />
+    <orderEntry type="module" module-name="pythonPractise" />
+    <orderEntry type="module" module-name="05 函数(一)" />
+    <orderEntry type="module" module-name="06 函数(二)" />
+    <orderEntry type="module" module-name="07 文件操作" />
+    <orderEntry type="module" module-name="08 基础案例" />
+    <orderEntry type="module" module-name="09 类与对象" />
+    <orderEntry type="module" module-name="10 类与继承" />
+    <orderEntry type="module" module-name="11 类与对象封装" />
+    <orderEntry type="module" module-name="12 模块与异常处理" />
+  </component>
+</module>

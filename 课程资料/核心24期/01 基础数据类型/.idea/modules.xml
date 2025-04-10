@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/01 基础数据类型.iml" filepath="$PROJECT_DIR$/.idea/01 基础数据类型.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../02 控制流程/.idea/02 控制流程.iml" filepath="$PROJECT_DIR$/../02 控制流程/.idea/02 控制流程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../03 数据容器(list,tuple)/.idea/03 数据容器(list,tuple).iml" filepath="$PROJECT_DIR$/../03 数据容器(list,tuple)/.idea/03 数据容器(list,tuple).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../04 数据容器(dict,set)/.idea/04 数据容器(dict,set).iml" filepath="$PROJECT_DIR$/../04 数据容器(dict,set)/.idea/04 数据容器(dict,set).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05 函数(一)/.idea/05 函数(一).iml" filepath="$PROJECT_DIR$/../05 函数(一)/.idea/05 函数(一).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../06 函数(二)/.idea/06 函数(二).iml" filepath="$PROJECT_DIR$/../06 函数(二)/.idea/06 函数(二).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../07 文件操作/.idea/07 文件操作.iml" filepath="$PROJECT_DIR$/../07 文件操作/.idea/07 文件操作.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08 基础案例/.idea/08 基础案例.iml" filepath="$PROJECT_DIR$/../08 基础案例/.idea/08 基础案例.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../09 类与对象/.idea/09 类与对象.iml" filepath="$PROJECT_DIR$/../09 类与对象/.idea/09 类与对象.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../10 类与继承/.idea/10 类与继承.iml" filepath="$PROJECT_DIR$/../10 类与继承/.idea/10 类与继承.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../11 类与对象封装/.idea/11 类与对象封装.iml" filepath="$PROJECT_DIR$/../11 类与对象封装/.idea/11 类与对象封装.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../12 模块与异常处理/.idea/12 模块与异常处理.iml" filepath="$PROJECT_DIR$/../12 模块与异常处理/.idea/12 模块与异常处理.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/pythonPractise/.idea/pythonPractise.iml" filepath="$USER_HOME$/PycharmProjects/pythonPractise/.idea/pythonPractise.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/pythonProject/.idea/pythonProject.iml" filepath="$USER_HOME$/PycharmProjects/pythonProject/.idea/pythonProject.iml" />
+    </modules>
+  </component>
+</project>

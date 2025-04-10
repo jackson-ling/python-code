@@ -1,0 +1,66 @@
+# 师傅类(父类)
+class Master:
+    def __init__(self):
+        self.secret = '[古法煎饼果子配方]'
+
+
+    # 方法函数
+    def make_cake(self):
+        return f'运用了{self.secret}去制作煎饼果子'
+
+# 学校类(父类)
+class School:
+    def __init__(self):
+        self.secret = '[青灯饼果子配方]'
+
+    # 方法函数
+    def make_cake(self):
+        return f'运用了{self.secret}去制作煎饼果子'
+
+# 定义徒弟类(子类)
+class Apprentice(Master,School):
+    def __init__(self):
+        self.secret = '[独创的煎饼果子配方]'
+
+    # 方法函数
+    def make_cake(self):
+        return f'运用了{self.secret}去制作煎饼果子'
+
+
+    # 在子类里面去掉其他多个父类的实力属性和方法函数
+    # 类对象去调用(类对象就是类的名字)
+    # 调用师傅类的
+    def master_make_cake(self):
+        Master.__init__(self) # 类对象调用 是不会默认传递self
+        return Master.make_cake(self) # 类对象调用 是不会默认传递self
+
+    # 调用学校的
+    def school_make_cake(self):
+        School.__init__(self)  # 类对象调用 是不会默认传递self
+        return School.make_cake(self) # 返回方法函数
+
+
+
+# 我收的一个徒弟
+class Xiongming(Apprentice):
+    pass
+
+# 对子类进行实例化
+
+# 如果子类里面自己有的 就会去用自己的
+# 只有当前子类什么都没有的情况下才会去继承第一个父类同名方法和属性
+
+# 拥有我全部的方法和实例属性
+xiaoming = Xiongming()
+# 打印属性
+print(xiaoming.secret)
+
+# 打印方法函数
+print(xiaoming.make_cake())
+print(xiaoming.master_make_cake())
+print(xiaoming.school_make_cake())
+
+# mor魔法方法 用于去打印你的继承顺序   查族谱味道
+
+# 最后面的类 object 所有类的基类
+print(Xiongming.__mro__)

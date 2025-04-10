@@ -1,0 +1,84 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Type Error" />
+      <item value="Syntax Error" />
+      <item value="reverse" />
+      <item value="please input the number of sms you want to send" />
+      <item value="合并" />
+      <item value="string indices must be integers" />
+      <item value="TypeError: string indices must be integers" />
+      <item value="If dir_fd is not None, it should be a file descriptor open to a directory, and path should be relative; path will then be relative to that directory. dir_fd may not be implemented on your platform. If it is unavailable, using it will raise a NotImplementedError." />
+      <item value="requests.exceptions.Invalid Schema" />
+      <item value="组包" />
+      <item value="Insecure Request Warning" />
+      <item value="Saves a screenshot of the current element to a PNG image file. Returns False if there is any IOError, else returns True. Use full paths in your filename." />
+      <item value="Gets the screenshot of the current element as a binary data." />
+      <item value="division" />
+      <item value="Zero Division Error" />
+      <item value="Name Error" />
+      <item value="capture Content" />
+      <item value="A reference for the HAR. Defaults to None" />
+      <item value="This sets a new HAR to be recorded" />
+      <item value="Return the number of elements in the sorted set ``name`" />
+      <item value="Return the score of element ``value`` in sorted set ``name``&quot;" />
+      <item value="Increment the score of ``value`` in sorted set ``name`` by ``amount``&quot;" />
+      <item value="Incrementally return lists of elements in a sorted set. Also return a cursor indicating the scan position." />
+      <item value="If ``start`` and ``num`` are specified, then return a slice of the range. ``withscores`` indicates to return the scores along with the values. The return type is a list of (value, score) pairs `score_cast_func`` a callable used to cast the score return value" />
+      <item value="Return a range of values from sorted set ``name`` between ``start`` and ``end`` sorted in descending order." />
+      <item value="Return a range of values from the sorted set ``name`` with scores between ``min`` and ``max``" />
+      <item value="Return a range of values from the sorted set ``name`` with scores between ``min`` and ``max``." />
+      <item value="scan count" />
+      <item value="scan cursor" />
+      <item value="Remove member ``values`` from sorted set ``name``&quot;" />
+      <item value="is valid proxy" />
+      <item value="get batch of proxies" />
+      <item value="get count of proxies" />
+      <item value="set proxy to max score" />
+      <item value="decrease score of proxy, if small than PROXY_SCORE_MIN, delete it" />
+      <item value="add proxy and set it to init score" />
+      <item value="decode responses" />
+      <item value="redis host" />
+      <item value="init redis client" />
+      <item value="Set any number of element-name, score pairs to the key ``name``. Pairs are specified as a dict of element-names keys to score values." />
+      <item value="Create a connection pool. If max_connections is set, then this object raises redis.ConnectionError when the pool's limit is reached." />
+      <item value="Return the Unicode code point for a one-character string." />
+      <item value="Assertion Error" />
+      <item value="requests.exceptions.MissingSchema: Invalid URL '': No schema supplied. Perhaps you meant http://?" />
+      <item value="result Value" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="47" />
+        <entry key="FRENCH" value="1" />
+        <entry key="LATIN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1646138395365" />
+  </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1675162844377" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20210922000952693" />
+      </app-key>
+    </option>
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translator" value="BAIDU" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="Iterates over the response data. When stream=True is set on the request, this avoids reading the content at once into memory for large responses. The chunk size is the number of bytes it should read into memory. This is not necessarily the length of each item returned as decoding can take place." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
